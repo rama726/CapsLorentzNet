@@ -59,7 +59,7 @@ torchrun --nproc_per_node=4 main.py --exp_name=try1 --datadir='./data/try1' --lo
 ```
 
 ### Pre-trained Model
-Pre-trained model are offered in [`./logs/pretrained/`]. There are six models for six random initialization of seeds.
+Pre-trained model are offered in [`./logs/pretrained/`]. There are six models for six random initialization of seeds. For naming we have used the format pretrained_seed.
 
 ## ROC Curves
 
